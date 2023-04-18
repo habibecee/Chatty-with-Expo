@@ -15,6 +15,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.mycompany.chatty",
       "supportsTablet": true
     },
     "android": {
